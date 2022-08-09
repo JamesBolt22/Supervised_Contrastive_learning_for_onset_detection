@@ -3,7 +3,9 @@ Using Supervised contrastive learning for onset detection
 
 This repository provides the code for implementing and testing the supervised contrastive model and the model from https://github.com/rohitma38/cnn-onset-detection for comparison.
 
-Synthesuzed data set:
+Due to time and memory limitations only the contrastive model trained on the sythesized data set has been adde and the synthesized data set has been added.
+
+Synthesized data set:
 
 A synthesized data set has been uploaded for the purposes of running the code. Both a song list and a test list have also been provided. It should be noted that in all the code fles specific paths need to be set for the code to run properly. These paths should point to where the data has been saved.
 
